@@ -1,0 +1,32 @@
+{	
+	"light_1": {
+		"accent":"#91FFCCFF",
+		"primary":"#FFFFFFFF",
+		"secondary":"#DBA3EC00"
+	},
+	"light_2": {
+		"accent":"#91FFCCFF",
+		"primary":"#FFFFFFFF",
+		"secondary":"#3BA39700"
+	},
+	"dark_1": {
+		"accent":"#000000FF",
+		"primary":"#FFFFFFFF",
+		"secondary":"#9700FF00"
+	},
+	"dark_2": {
+		"accent":"#000000FF",
+		"primary":"#FFFFFFFF",
+		"secondary":"FF808000"
+	},
+	"dark_3": {
+		"accent":"#000000FF",
+		"primary":"#FFFFFFFF",
+		"secondary":"#FF800000"
+	},
+	"light_3": {
+		"accent":"#0000A3FF",
+		"primary":"#000000FF",
+		"secondary":"#9BFFFF00"
+	}
+}
